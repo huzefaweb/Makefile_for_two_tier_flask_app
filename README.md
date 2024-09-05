@@ -44,7 +44,7 @@ Before you begin, make sure you have the following installed:
 1. Start the containers using Docker Compose:
 
    ```bash
-   docker-compose up --build
+   docker compose up --build
    ```
 
 2. Access the Flask app in your web browser:
